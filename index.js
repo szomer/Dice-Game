@@ -27,7 +27,7 @@ function onClick() {
   img2.setAttribute('src', `images/dice${player2}.png`);
 
   // set title message
-  title.textContent = str;
+  title.innerHTML = str;
 }
 
 // get random number from 1 and 6
