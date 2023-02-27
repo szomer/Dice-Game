@@ -1,6 +1,6 @@
 ## 1. Dice game
 
-- JS, HTML, CSS
+- JS, HTML & CSS
 
 <br>
 <p align="center">
@@ -11,7 +11,7 @@
 
 ## 2. Drum Kit
 
-- JS, HTML, CSS
+- JS, HTML & CSS
 
 <br>
 <p align="center">
@@ -22,7 +22,7 @@
 
 ## 3. The Simon game
 
-- JS, jQuery, HTML, CSS
+- JS, jQuery, HTML & CSS
 
 <br>
 <p align="center">
