@@ -4,7 +4,7 @@
 
 <br>
 <p align="center">
-  <img src="img/dice.jpg?raw=true" alt="Screenshot of the App"/>
+  <img src="img/dicegame.jpg?raw=true" alt="Screenshot of the App"/>
 </p>
 
 ---
