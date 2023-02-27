@@ -7,8 +7,6 @@
   <img src="img/dicegame.jpg?raw=true" alt="Screenshot of the App"/>
 </p>
 
----
-
 ## 2. Drum Kit
 
 - JS, HTML & CSS
@@ -17,8 +15,6 @@
 <p align="center">
   <img src="img/drum.jpg?raw=true" alt="Screenshot of the App"/>
 </p>
-
----
 
 ## 3. The Simon game
 
