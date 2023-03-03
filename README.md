@@ -1,6 +1,6 @@
 # Web games
 
-This repo contains three mini web games.
+This repo contains three mini games for the web.
 
 1. **Dice Game** - JS, HTML & CSS
 2. **Drum Kit** - JS, HTML & CSS
