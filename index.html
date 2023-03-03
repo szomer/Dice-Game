@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+  </head>
+  <body>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Bungee+Inline&family=Quicksand&display=swap');
+
+      html,
+      body {
+        height: 100%;
+        margin: 0;
+      }
+      body {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: flex-start;
+        background: url('./bg.jpg');
+        background-position: center right;
+        background-size: cover;
+      }
+      .container {
+        margin-left: 10%;
+        background-color: rgba(240, 248, 255, 0.593);
+        padding: 2rem;
+        border-radius: 10px;
+      }
+      h1 {
+        margin: 0;
+        padding: 0;
+        font-family: 'Bungee Inline', cursive;
+        font-size: 5rem;
+        color: #b43f2f;
+        text-shadow: 4px 4px 0px rgb(0, 0, 0);
+      }
+      h2 {
+        font-family: 'Quicksand', sans-serif;
+      }
+      a {
+        color: #b43f2f;
+      }
+      a:hover {
+        color: black;
+      }
+    </style>
+
+    <div class="container">
+      <h1>Web Games</h1>
+      <h2>1. <a href="./dice-game/index.html"> Dice Game</a></h2>
+      <h2>2. <a href="./drum-kit/index.html"> Drum Kit</a></h2>
+      <h2>3. <a href="./the-simon-game/index.html"> The Simon Game</a></h2>
+    </div>
+  </body>
+</html>

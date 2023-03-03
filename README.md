@@ -1,26 +1,12 @@
-## 1. Dice game
+# Web games
 
-- JS, HTML & CSS
+This repo contains three mini web games.
 
-<br>
-<p align="center">
-  <img src="img/dicegame.jpg?raw=true" alt="Screenshot of the App"/>
-</p>
-
-## 2. Drum Kit
-
-- JS, HTML & CSS
+1. **Dice Game** - JS, HTML & CSS
+2. **Drum Kit** - JS, HTML & CSS
+3. **The Simon Game** - JS, jQuery, HTML & CSS
 
 <br>
 <p align="center">
-  <img src="img/drum.jpg?raw=true" alt="Screenshot of the App"/>
-</p>
-
-## 3. The Simon game
-
-- JS, jQuery, HTML & CSS
-
-<br>
-<p align="center">
-  <img src="img/simon.jpg?raw=true" alt="Screenshot of the App"/>
+  <img src="img/web.jpg?raw=true" alt="Screenshot of the App"/>
 </p>
