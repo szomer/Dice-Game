@@ -1,6 +1,6 @@
 # Web games
 
-This repo contains three mini games for the web.
+This repo contains three mini games for the web. To view click [HERE](https://szomer.github.io/Web-Games/) (github pages).
 
 1. **Dice Game** - JS, HTML & CSS
 2. **Drum Kit** - JS, HTML & CSS
